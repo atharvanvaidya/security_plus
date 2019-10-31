@@ -1,13 +1,13 @@
 ### Table of Contents
-* [1.0 Threats, Attacks and Vulnerabilities](#10-threats-attacks-and-vulnerabilities)
-* [2.0 Technologies and Tools](#20-technologies-and-tools)
-* [3.0 Architecture and Design](#30-architecture-and-design)
-* [4.0 Identity and Access Management](#40-identity-and-access-management)
-* [5.0 Risk Management](#50-risk-management)
-* [6.0 Cryptography and PKI](#60-cryptography-and-pki)
+* [1.0 Threats, Attacks and Vulnerabilities (21%)](#10-threats-attacks-and-vulnerabilities)
+* [2.0 Technologies and Tools (22%)](#20-technologies-and-tools)
+* [3.0 Architecture and Design (15%)](#30-architecture-and-design)
+* [4.0 Identity and Access Management (16%)](#40-identity-and-access-management)
+* [5.0 Risk Management (14%)](#50-risk-management)
+* [6.0 Cryptography and PKI (12%)](#60-cryptography-and-pki)
 * [Acronyms](#acronyms)
 
-## 1.0 Threats, Attacks and Vulnerabilities
+## 1.0 Threats, Attacks and Vulnerabilities (21%)
 
 ### 1.1 Given a scenario, analyze indicators of compromise and determine the type of malware. 
 
@@ -163,7 +163,7 @@
 #### New threats/zero day
 #### Improper certificate and key management
 
-## 2.0 Technologies and Tools
+## 2.0 Technologies and Tools (22%)
 
 ### 2.1 Install and configure network components, both hardware and software-based, to support organizational security. 
 
@@ -391,7 +391,7 @@
 * Network address allocation
 * Subscription services
 
-## 3.0 Architecture and Design
+## 3.0 Architecture and Design (15%)
 
 ### 3.1 Explain use cases and purpose for frameworks, best practices and secure configuration guides. 
 
@@ -617,7 +617,7 @@
 #### Infrared detection
 #### Key management
 
-## 4.0 Identity and Access Management
+## 4.0 Identity and Access Management (16%)
 
 ### 4.1 Compare and contrast identity and access management concepts
 
@@ -710,7 +710,7 @@
 * Password reuse
 * Password length
 
-### 5.0 Risk Management
+### 5.0 Risk Management (14%)
 
 ### 5.1 Explain the importance of policies, plans and procedures related to organizational security. 
 
@@ -882,7 +882,7 @@
 #### Data retention
 #### Legal and compliance
 
-## 6.0 Cryptography and PKI
+## 6.0 Cryptography and PKI (12%)
 
 ### 6.1 Compare and contrast basic concepts of cryptography.
 
